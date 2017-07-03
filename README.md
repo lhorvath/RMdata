@@ -1,8 +1,6 @@
 
 # Repository of data sets and scripts
 
-$("div").contents().filter("em").wrap("<b/>");
-
 ## Candidate-level data
 ### Variables
 <table class="table table-striped">
