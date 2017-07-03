@@ -1,10 +1,11 @@
 
-# Repository of data sets and scripts
+Repository of data sets and scripts
 ------------
+Contents:
 - candidate-level data set for UK elections 2010, 2015, 2017
 - constituency-level data set UK elections 2010, 2015, 2017
 
-CANDIDATE-LEVEL DATA SET
+Candidate-level data
 ------------
 
 <table class="table table-striped">
@@ -92,23 +93,7 @@ CANDIDATE-LEVEL DATA SET
 </tbody>
 </table>
 
-```
-# variables
--variables-----|-description-|-source-|-provisional?-|
- ons_id        |                | gov.uk | NO           |
- Party         |                | gov.uk | NO           |
- Candidate Name|                | gov.uk | NO           |
- fname         | First name     |        |              |
- lname         | Last  name     |        |              |
- Constituency  | Press associ.  | BES    | NO           |
- Votes         |                | gov.uk | NO           |
- Share         | C's vote share | gov.uk | NO           |
- Position      | C pos.in race  | gov.uk | NO           |
- year          | Election year  | gov.uk | NO           |
- woman         | C is a woman   | gov.uk | NO           |
- former_mp     | C is incumbent | gov.uk | NO           |
- inc           |                | gov.uk | NO           |
- 
- 
-# methodology
-```
+Candidate-level data methodology:
+------------
+
+Explanation.
