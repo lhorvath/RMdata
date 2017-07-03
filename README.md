@@ -5,6 +5,7 @@ Repository of data sets and scripts:
 - constituency-level data set UK elections 2010, 2015, 2017
 
 # CANDIDATE-LEVEL DATA SET
+```
 <table class="table table-striped">
 <thead>
 <tr>
@@ -38,7 +39,7 @@ Repository of data sets and scripts:
 </tr>
 </tbody>
 </table>
-
+```
 # variables
 -variables-----|-description-|-source-|-provisional?-|
  ons_id        |                | gov.uk | NO           |
