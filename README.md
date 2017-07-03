@@ -1,13 +1,10 @@
 
 # Repository of data sets and scripts
-------------
-Contents:
-- candidate-level data set for UK elections 2010, 2015, 2017
-- constituency-level data set UK elections 2010, 2015, 2017
+
+$("div").contents().filter("em").wrap("<b/>");
 
 ## Candidate-level data
-------------
-
+### Variables
 <table class="table table-striped">
 <thead>
 <tr>
@@ -93,7 +90,6 @@ Contents:
 </tbody>
 </table>
 
-Candidate-level data methodology:
-------------
+### Methodology
 
-Explanation.
+## Constituency-level data
