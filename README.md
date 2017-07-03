@@ -1,11 +1,11 @@
 
-Repository of data sets and scripts
+# Repository of data sets and scripts
 ------------
 Contents:
 - candidate-level data set for UK elections 2010, 2015, 2017
 - constituency-level data set UK elections 2010, 2015, 2017
 
-Candidate-level data
+## Candidate-level data
 ------------
 
 <table class="table table-striped">
