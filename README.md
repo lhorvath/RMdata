@@ -5,6 +5,39 @@ Repository of data sets and scripts:
 - constituency-level data set UK elections 2010, 2015, 2017
 
 # CANDIDATE-LEVEL DATA SET
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+<th>Header 3</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<th>Footer 1</th>
+<th>Footer 2</th>
+<th>Footer 3</th>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+</tbody>
+</table>
 
 # variables
 -variables-----|-description-|-source-|-provisional?-|
